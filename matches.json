@@ -3,7 +3,7 @@
     "descricao": "Eliminatórias da Copa 2022",
     "local": {
       "nome": "Maracanã",
-      "imagem": "TODO"
+      "imagem": "http://cdn.espn.com.br/image/wide/622_72f28f58-a5f7-34d6-add6-027786b7c5b9.gif"
     },
     "mandante": {
       "nome": "Brasil",
@@ -20,7 +20,7 @@
     "descricao": "Eliminatórias da Copa 2022",
     "local": {
       "nome": "Estádio Centenário",
-      "imagem": "TODO"
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/4/45/Estadio_Centenario_%28vista_a%C3%A9rea%29.jpg"
     },
     "mandante": {
       "nome": "Uruguai",
@@ -37,7 +37,7 @@
     "descricao": "Eliminatórias da Copa 2022",
     "local": {
       "nome": "Maracanã",
-      "imagem": "TODO"
+      "imagem": "http://cdn.espn.com.br/image/wide/622_72f28f58-a5f7-34d6-add6-027786b7c5b9.gif"
     },
     "mandante": {
       "nome": "Brasil",
